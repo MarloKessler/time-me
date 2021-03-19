@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  time:me
+
+  Created by Marlo Kessler on 19.07.19.
+  Copyright © 2019 Marlo Kessler. All rights reserved.
+*/
+
+"next" = "Weiter";
+
+"allow access" = "Zugriff erlauben";
+
+"start now" = "Jetzt loslegen!";
+
+"intro label 1" = "Egal ob Du Selbstständig, Freiberufler oder Angestellter bist, time:me hilft Dir dabei, ganz einfach deine Zeit bei deinen Kunden zu erfassen, damit Du deine Kunden minutengenau abrechnen kannst und Du nie wieder Beschwerden wegen falscher Abrechnungen erhälst.";
+
+"intro label 2" = "time:me greift dazu auf die Kundentermine deiner Arbeitskalender zu, damit Du passend zu deinem Kundentermin die Zeit erfassen kannst.";
+
+"intro label 3" = "Mit dem time:me-Widget kannst Du mit nur einem Swipe die Zeiterfassung starten und wieder stoppen!";
+
+"intro label 4" = "time:me erinnert Dich mit einer Benachrichtigung an deinen nächsten Termin, sodass Du nie vergisst, die Zeiterfassung zu starten!";
+
+"intro label 5" = "Und falls doch einmal etwas schief laufen sollte, kannst Du Termine in time:me manuell nachtragen. \n\n Du kannst auch bestehende Termine bearbeiten, falls Du einmal vergessen hast, deine Zeiterfassung rechtzeitig zu starten oder zu stoppen.";
+
+"intro label 6.1" = "Du kannst time:me in den ersten ";
+"intro label 6.2" = " Tagen kostenlos testen, um zu sehen ob es zu Dir passt. \n\n Du kannst natürlich jederzeit auf time:me+ upgraden, um time:me dauerhaft kostenlos zu verwenden.";
+
+"calendar access necessary title" = "Kalenderzugriff erforderlich";
+
+"calendar access necessary declaration" = "Wir benötigen Zugriff auf deinen Kalender, um deine Kundentermine erfassen zu können!";
+
+"settings" = "Einstellungen";
+
+"cancel" = "Abbrechen";
+
+"dont cancel"  = "Nicht Abbrechen";
+
+"okay" = "Okay";
+
+"alright" = "Alles klar!";
+
+"edit" = "Bearbeiten";
+
+"add" = "Hinzufügen";
+
+"delete" = "Löschen";
+
+"dont delete" = "Nicht Löschen";
+
+"from" = "von";
+
+"until" = "bis";
+
+"clock" = "Uhr";
+
+"start time tracking" = "Zeiterfassung starten";
+"stop time tracking" = "Zeiterfassung stoppen";
+
+"cancel tracking title" = "Aufzeichnung abbrechen";
+"cancel tracking description" = "Möchtest Du wirklich die Aufzeichnung abbrechen? Dieser Schritt kann nicht rückgängig gemacht werden.";
+
+"delete tracking title" = "Aufzeichnung Löschen";
+"delete tracking description" = "Möchtest Du wirklich die Aufzeichnung löschen? Dieser Schritt kann nicht rückgängig gemacht werden.";
+
+"buy view bodylabel demo first part" = "Wir hoffen time:me gefällt Dir. Du kannst time:me noch ";
+"buy view bodylabel demo second part" =  " Tage kostenlos testen. \n\n Oder upgrade jetzt auf time:me+, um time:me dauerhaft kostenlos zu verwenden.";
+
+"buy view bodylabel buy now" = "Deine Testphase ist leider vorüber. Wir hoffen time:me gefällt Dir und erleichtert Dir deine Zeiterfassung. Kaufe jetzt time:me+ um time:me auch weiterhin nutzen zu können.";
+
+"legal label text" = "Ich habe die AGBs und die Datenschutzerklärung gelesen und erkläre mich damit einverstanden!";
+"gtac location" = "13";
+"gtac length" = "4";
+"privacy statement location" = "26";
+"privacy statement length" = "20";
+
+"welcome to tm+ title" = "Willkommen bei time:me+";
+"welcome to tm+ description" = "Herzlichen Glückwunsch zu time:me+. Ab sofort kannst Du time:me dauerhaft kostenlos  benutzen, um deine Zeit zu erfassen. Außerdem erhälst Du immer Zugriff auf die neusten Funktionen und Verbesserungen. Wir hoffen die App gefällt Dir.";
+
+"bought got restored title" = "Dein Kauf wurde wiederhergestellt! Herzlich Willkommen zurück.";
+
+"enjoy time:me" = "Gefällt Dir time:me?";
+
+"absolutely" = "Absolut!";
+"not really" = "Nicht so sehr...";
+
+"rate email subject" = "Dinge, die Ihr besser machen könnt";
+
+"error not possible" = "Fehler: Du kannst keine E-Mails versenden!";
+
+"sorry to hear that" = "Es tut uns Leid zu hören, dass Dir time:me nicht gefällt!";
+"contact developer" = "Erzähle uns, was Dir nicht gefällt. Wir verbessern time:me permanent.";
+
+"contact us" = "Schreibe uns!";
+
+"thank you" = "Danke!";
+
+"thank you for comment" = "Danke, dass Du deine Meinung mit uns geteilt hast. Wir lesen jede E-Mail und versuchen time:me für dich zu verbessern!";
+
+"buy toolbar text 1" = "Noch ";
+"buy toolbar text 2" = " Tage testen oder jetzt kaufen!";

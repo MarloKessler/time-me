@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Kt3-bF-yOw"; */
+"Kt3-bF-yOw.text" = "Total";
+
+/* Class = "UILabel"; text = "Ende"; ObjectID = "MCz-75-b5G"; */
+"MCz-75-b5G.text" = "Ende";
+
+/* Class = "UILabel"; text = "Es stehen keine Termin an!"; ObjectID = "X6Q-0n-T7w"; */
+"X6Q-0n-T7w.text" = "Es stehen keine Termin an!";
+
+/* Class = "UIButton"; normalTitle = "Abbrechen"; ObjectID = "fJD-fo-fIy"; */
+"fJD-fo-fIy.normalTitle" = "Abbrechen";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "grK-Wd-uDL"; */
+"grK-Wd-uDL.text" = "--:--";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "i9c-8E-YNW"; */
+"i9c-8E-YNW.text" = "--:--";
+
+/* Class = "UILabel"; text = "00 : 00"; ObjectID = "krO-Dl-okf"; */
+"krO-Dl-okf.text" = "00 : 00";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "uxk-Ni-xil"; */
+"uxk-Ni-xil.text" = "Start";
+
+/* Class = "UIButton"; normalTitle = " Zeiterfassung starten "; ObjectID = "xkU-ja-Zlp"; */
+"xkU-ja-Zlp.normalTitle" = " Zeiterfassung starten ";

@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  time:me
+
+  Created by Marlo Kessler on 19.07.19.
+  Copyright © 2019 Marlo Kessler. All rights reserved.
+*/
+
+"next" = "Next";
+
+"allow access" = "Allow Access";
+
+"start now" = "Start now!";
+
+"intro label 1" = "It doesn't matter if your self-employed or an employee, time:me helps you easily track the time you need with your clients, so you can bill them exactly and nevermore get complaints about incorrect bills.";
+
+"intro label 2" = "time:me uses the business appointments you entered in Calendar, so it is able to track your time.";
+
+"intro label 3" = "With the time:me widget you can start and stop time tracking within only one swipe.";
+
+"intro label 4" = "time:me notifies you about your next appointment, so you never forget to track your time!";
+
+"intro label 5" = "And if things go wrong you can add appointments  manually. \n\n You can also edit existing appointments, if you forgot to start or stop time tracking timely.";
+
+"intro label 6.1" = "You can test time:me for free for the first ";
+"intro label 6.2" = " days to see if it fits to you. \n\n You can also upgrade to time:me+ in order to use time:me permanently.";
+
+"calendar access necessary title" = "Calendar access necessary";
+
+"calendar access necessary declaration" = "We need access to Calendar to track your appointments!";
+
+"settings" = "settings";
+
+"cancel" = "Cancel";
+
+"dont cancel"  = "Don't Cancel";
+
+"okay" = "Okay";
+
+"alright" = "Alright!";
+
+"edit" = "Edit";
+
+"add" = "Add";
+
+"delete" = "Delete";
+
+"dont delete" = "Don't Delete";
+
+"from" = "from";
+
+"until" = "until";
+
+"clock" = "clock";
+
+"start time tracking" = "Start tracking";
+
+"stop time tracking" = "Stop tracking";
+
+"cancel tracking title" = "Cancel tracking";
+
+"cancel tracking description" = "Do you really want to cancel this track? This step cannot be undone.";
+
+"delete tracking title" = "Delete track";
+
+"delete tracking description" = "Do you really want to delete this track? This step cannot be undone.";
+
+"buy view bodylabel demo first part" = "We hope you enjoy time:me. You can test time:me for another ";
+"buy view bodylabel demo second part" =  " days for free. \n\n Upgrade now to time:me+ to use time:me permanently.";
+
+"buy view bodylabel buy now" = "Your test period is over. Buy now time:me+, so you can use time:me in future too.";
+
+"legal label text" = "I read the General Terms & Conditions and the Privacy Statement and agree with them!";
+"gtac location" = "11";
+"gtac length" = "26";
+"privacy statement location" = "46";
+"privacy statement length" = "17";
+
+"welcome to tm+ title" = "Welcome to time:me+";
+"welcome to tm+ description" = "We're happy to welcome you to the time:me+ family! From now on you can use time:me permanently for free to track your time. Additionally we will keep up-to-date with new functions. We hope you like it.";
+
+"bought got restored title" = "Your bought got restored! Welcome back.";
+
+"enjoy time:me" = "Do you enjoy time:me?";
+
+"absolutely" = "Absolutely!";
+"not really" = "Not really...";
+
+"rate email subject" = "Things you can do better";
+
+"error not possible" = "Error: You are not able to send any emails!";
+
+"sorry to hear that" = "We're sorry to hear, that you don't like time:me!";
+"contact developer" = "Tell us, what you don't like. We'll improve time:me permantently.";
+
+"contact us" = "Contact us!";
+
+"thank you" = "Thank you!";
+
+"thank you for comment" = "Thank you, for sharing your opinion. We read every email and try  make time:me better for you!";
+
+"buy toolbar text 1" = "";
+"buy toolbar text 2" = " demo days left. Buy now!";

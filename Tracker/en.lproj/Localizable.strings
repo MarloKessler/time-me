@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  time:me
+
+  Created by Marlo Kessler on 19.07.19.
+  Copyright © 2019 Marlo Kessler. All rights reserved.
+*/
+
+"demoversion over" = "You test period  is over.\n We hope youb enyojed time:me. \N Buy now time:me+ to be able to use time:me in future too.";
+
+"start tracking" = "Start tracking";
+"stop tracking" = "Stop tracking";
+
+"cancel" = "Cancel";
+
+"edit" = "Edit";

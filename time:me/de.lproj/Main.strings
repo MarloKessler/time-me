@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "time:me does not work if Calendar access is not allowed. time:me accesses your appointments trough Calendar and tracks your time. Please turn  on Calendar access in your iPhone settings."; ObjectID = "2Dt-Os-6N5"; */
+"2Dt-Os-6N5.text" = "time:me funktioniert nicht ohne Zugriff auf deinen Kalender. Über deinen Kalender kann time:me auf deine Kundentermine zugreifen und deine Zeit erfassen. Bitte gehen in die Einstellungen und erlaube time:me den Zugriff auf deinen Kalender!";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "2qs-WK-ek9"; */
+"2qs-WK-ek9.normalTitle" = "Speichern";
+
+/* Class = "UIBarButtonItem"; title = "Today"; ObjectID = "5Om-4T-OWT"; */
+"5Om-4T-OWT.title" = "Heute";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "5iW-Pm-ReP"; */
+"5iW-Pm-ReP.normalTitle" = "Überspringen";
+
+/* Class = "UIButton"; normalTitle = "   Settings   "; ObjectID = "75k-5i-7dc"; */
+"75k-5i-7dc.normalTitle" = "   Einstellungen   ";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "Gfw-4Q-cpk"; */
+"Gfw-4Q-cpk.text" = "Ende";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "HQ0-9h-Utv"; */
+"HQ0-9h-Utv.text" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "IOD-L0-RdA"; */
+"IOD-L0-RdA.normalTitle" = "Weiter";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "IOf-3V-hXs"; */
+"IOf-3V-hXs.title" = "Item";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "IPX-Rf-uad"; */
+"IPX-Rf-uad.text" = "Start";
+
+/* Class = "UINavigationItem"; title = "Choose Date"; ObjectID = "Jy2-V5-HvP"; */
+"Jy2-V5-HvP.title" = "Datum auswählen";
+
+/* Class = "UILabel"; text = "time:me+"; ObjectID = "KpR-yz-s2d"; */
+"KpR-yz-s2d.text" = "time:me+";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "MuS-m2-hhg"; */
+"MuS-m2-hhg.text" = "Ende";
+
+/* Class = "UIBarButtonItem"; title = "Select"; ObjectID = "NUN-mx-GeF"; */
+"NUN-mx-GeF.title" = "Auswählen";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "OWI-Bi-568"; */
+"OWI-Bi-568.normalTitle" = "Abbrechen";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Rd4-69-I5v"; */
+"Rd4-69-I5v.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "WBs-8l-bkt"; */
+"WBs-8l-bkt.normalTitle" = "Wiederherstellen";
+
+/* Class = "UINavigationItem"; title = "Choose Date"; ObjectID = "a7E-dY-joF"; */
+"a7E-dY-joF.title" = "Datum";
+
+/* Class = "UILabel"; text = "Calendar access necessary!"; ObjectID = "bQG-ap-1Ft"; */
+"bQG-ap-1Ft.text" = "Kalenderzugriff erforderlich!!";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "bZX-f0-8Rc"; */
+"bZX-f0-8Rc.title" = "Bearbeiten";
+
+/* Class = "UILabel"; text = "You are not allowed to buy apps. Please check your iTunes and App Store settings."; ObjectID = "buW-6e-XjC"; */
+"buW-6e-XjC.text" = "Du kannst keine Appkäufe tätigen. Bitte überprüfe deine iTunes und App-Store Einstellungen";
+
+/* Class = "UILabel"; text = "Choose your Calendar"; ObjectID = "f8a-lS-GOM"; */
+"f8a-lS-GOM.text" = "Wähle deinen Kalender";
+
+/* Class = "UITextView"; text = "I read the General Terms & Conditions and the privacy statement  and agree with both."; ObjectID = "fDW-IE-gFm"; */
+"fDW-IE-gFm.text" = "Ich habe die AGBs und die Datenschutzerklärung gelesen und erkläre mich damit einverstanden!";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "hYu-Fl-Gbv"; */
+"hYu-Fl-Gbv.normalTitle" = "Auswählen";
+
+/* Class = "UIButton"; normalTitle = "Start tracking"; ObjectID = "i80-oY-NcX"; */
+"i80-oY-NcX.normalTitle" = "Zeiterfassung starten";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "kkS-2O-Vxv"; */
+"kkS-2O-Vxv.title" = "Abbrechen";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "8oY-ts-RQx"; */
+"8oY-ts-RQx.title" = "Auswählen";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "uVM-ms-hLH"; */
+"uVM-ms-hLH.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vPQ-ua-GRV"; */
+"vPQ-ua-GRV.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "wCh-yc-Bvp"; */
+"wCh-yc-Bvp.text" = "Titel";
+
+/* Class = "UITextField"; placeholder = "New Entry"; ObjectID = "xBt-DQ-fLh"; */
+"xBt-DQ-fLh.placeholder" = "Neuer Eintrag";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "yXo-tg-Ies"; */
+"yXo-tg-Ies.normalTitle" = "Abbrechen";
